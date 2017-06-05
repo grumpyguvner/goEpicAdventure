@@ -1,8 +1,8 @@
 package methods
 
 import (
-	"github.com/kabukky/journey/database"
-	"github.com/kabukky/journey/structure"
+	"github.com/grumpyguvner/adventure-blog/database"
+	"github.com/grumpyguvner/adventure-blog/structure"
 	"time"
 )
 

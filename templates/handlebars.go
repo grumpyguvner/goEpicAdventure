@@ -2,12 +2,12 @@ package templates
 
 import (
 	"bytes"
-	"github.com/kabukky/journey/conversion"
-	"github.com/kabukky/journey/database"
-	"github.com/kabukky/journey/filenames"
-	"github.com/kabukky/journey/plugins"
-	"github.com/kabukky/journey/structure"
-	"github.com/kabukky/journey/structure/methods"
+	"github.com/grumpyguvner/adventure-blog/conversion"
+	"github.com/grumpyguvner/adventure-blog/database"
+	"github.com/grumpyguvner/adventure-blog/filenames"
+	"github.com/grumpyguvner/adventure-blog/plugins"
+	"github.com/grumpyguvner/adventure-blog/structure"
+	"github.com/grumpyguvner/adventure-blog/structure/methods"
 	"html"
 	"log"
 	"net/url"

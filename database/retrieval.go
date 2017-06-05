@@ -3,7 +3,7 @@ package database
 import (
 	"database/sql"
 	"encoding/json"
-	"github.com/kabukky/journey/structure"
+	"github.com/grumpyguvner/adventure-blog/structure"
 	"time"
 )
 

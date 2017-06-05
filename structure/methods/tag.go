@@ -1,8 +1,8 @@
 package methods
 
 import (
-	"github.com/kabukky/journey/slug"
-	"github.com/kabukky/journey/structure"
+	"github.com/grumpyguvner/adventure-blog/slug"
+	"github.com/grumpyguvner/adventure-blog/structure"
 	"strings"
 )
 

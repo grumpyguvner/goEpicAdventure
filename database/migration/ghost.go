@@ -3,8 +3,8 @@ package migration
 import (
 	"database/sql"
 	"errors"
-	"github.com/kabukky/journey/filenames"
-	"github.com/kabukky/journey/helpers"
+	"github.com/grumpyguvner/adventure-blog/filenames"
+	"github.com/grumpyguvner/adventure-blog/helpers"
 	"log"
 	"os"
 	"path/filepath"

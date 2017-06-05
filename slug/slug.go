@@ -1,7 +1,7 @@
 package slug
 
 import (
-	"github.com/kabukky/journey/database"
+	"github.com/grumpyguvner/adventure-blog/database"
 	"strconv"
 	"strings"
 	"unicode"

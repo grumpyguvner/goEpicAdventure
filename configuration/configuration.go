@@ -3,7 +3,7 @@ package configuration
 import (
 	"encoding/json"
 	"errors"
-	"github.com/kabukky/journey/filenames"
+	"github.com/grumpyguvner/adventure-blog/filenames"
 	"io/ioutil"
 	"log"
 	"reflect"
