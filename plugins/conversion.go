@@ -1,8 +1,8 @@
 package plugins
 
 import (
-	"github.com/grumpyguvner/adventure-blog/structure"
-	"github.com/grumpyguvner/adventure-blog/structure/methods"
+	"github.com/grumpyguvner/goEpicAdventure/structure"
+	"github.com/grumpyguvner/goEpicAdventure/structure/methods"
 	"github.com/yuin/gopher-lua"
 )
 

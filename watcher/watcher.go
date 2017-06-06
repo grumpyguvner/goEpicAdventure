@@ -1,7 +1,7 @@
 package watcher
 
 import (
-	"github.com/grumpyguvner/adventure-blog/helpers"
+	"github.com/grumpyguvner/goEpicAdventure/helpers"
 	"gopkg.in/fsnotify.v1"
 	"log"
 	"os"

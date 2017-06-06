@@ -1,7 +1,7 @@
 package templates
 
 import (
-	"github.com/grumpyguvner/adventure-blog/structure"
+	"github.com/grumpyguvner/goEpicAdventure/structure"
 )
 
 var helperFuctions = map[string]func(*structure.Helper, *structure.RequestData) []byte{

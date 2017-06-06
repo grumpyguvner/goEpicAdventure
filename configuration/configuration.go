@@ -3,7 +3,7 @@ package configuration
 import (
 	"encoding/json"
 	"errors"
-	"github.com/grumpyguvner/adventure-blog/filenames"
+	"github.com/grumpyguvner/goEpicAdventure/filenames"
 	"io/ioutil"
 	"log"
 	"reflect"

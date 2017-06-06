@@ -2,9 +2,9 @@ package server
 
 import (
 	"github.com/dimfeld/httptreemux"
-	"github.com/grumpyguvner/adventure-blog/filenames"
-	"github.com/grumpyguvner/adventure-blog/structure/methods"
-	"github.com/grumpyguvner/adventure-blog/templates"
+	"github.com/grumpyguvner/goEpicAdventure/filenames"
+	"github.com/grumpyguvner/goEpicAdventure/structure/methods"
+	"github.com/grumpyguvner/goEpicAdventure/templates"
 	"net/http"
 	"path/filepath"
 	"strconv"

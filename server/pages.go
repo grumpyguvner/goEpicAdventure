@@ -2,8 +2,8 @@ package server
 
 import (
 	"github.com/dimfeld/httptreemux"
-	"github.com/grumpyguvner/adventure-blog/filenames"
-	"github.com/grumpyguvner/adventure-blog/helpers"
+	"github.com/grumpyguvner/goEpicAdventure/filenames"
+	"github.com/grumpyguvner/goEpicAdventure/helpers"
 	"net/http"
 	"path/filepath"
 	"strings"

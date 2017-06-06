@@ -1,7 +1,7 @@
 package authentication
 
 import (
-	"github.com/grumpyguvner/adventure-blog/database"
+	"github.com/grumpyguvner/goEpicAdventure/database"
 	"golang.org/x/crypto/bcrypt"
 )
 

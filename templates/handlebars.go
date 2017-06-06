@@ -2,12 +2,12 @@ package templates
 
 import (
 	"bytes"
-	"github.com/grumpyguvner/adventure-blog/conversion"
-	"github.com/grumpyguvner/adventure-blog/database"
-	"github.com/grumpyguvner/adventure-blog/filenames"
-	"github.com/grumpyguvner/adventure-blog/plugins"
-	"github.com/grumpyguvner/adventure-blog/structure"
-	"github.com/grumpyguvner/adventure-blog/structure/methods"
+	"github.com/grumpyguvner/goEpicAdventure/conversion"
+	"github.com/grumpyguvner/goEpicAdventure/database"
+	"github.com/grumpyguvner/goEpicAdventure/filenames"
+	"github.com/grumpyguvner/goEpicAdventure/plugins"
+	"github.com/grumpyguvner/goEpicAdventure/structure"
+	"github.com/grumpyguvner/goEpicAdventure/structure/methods"
 	"html"
 	"log"
 	"net/url"

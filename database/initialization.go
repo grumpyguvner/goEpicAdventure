@@ -2,10 +2,10 @@ package database
 
 import (
 	"database/sql"
-	"github.com/grumpyguvner/adventure-blog/database/migration"
-	"github.com/grumpyguvner/adventure-blog/filenames"
-	"github.com/grumpyguvner/adventure-blog/helpers"
-	"github.com/grumpyguvner/adventure-blog/structure"
+	"github.com/grumpyguvner/goEpicAdventure/database/migration"
+	"github.com/grumpyguvner/goEpicAdventure/filenames"
+	"github.com/grumpyguvner/goEpicAdventure/helpers"
+	"github.com/grumpyguvner/goEpicAdventure/structure"
 	_ "github.com/mattn/go-sqlite3"
 	"github.com/twinj/uuid"
 	"time"

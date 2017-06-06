@@ -1,8 +1,8 @@
 package methods
 
 import (
-	"github.com/grumpyguvner/adventure-blog/database"
-	"github.com/grumpyguvner/adventure-blog/structure"
+	"github.com/grumpyguvner/goEpicAdventure/database"
+	"github.com/grumpyguvner/goEpicAdventure/structure"
 	"log"
 	"time"
 )

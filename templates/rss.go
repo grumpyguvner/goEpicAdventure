@@ -3,9 +3,9 @@ package templates
 import (
 	"bytes"
 	"github.com/gorilla/feeds"
-	"github.com/grumpyguvner/adventure-blog/database"
-	"github.com/grumpyguvner/adventure-blog/structure"
-	"github.com/grumpyguvner/adventure-blog/structure/methods"
+	"github.com/grumpyguvner/goEpicAdventure/database"
+	"github.com/grumpyguvner/goEpicAdventure/structure"
+	"github.com/grumpyguvner/goEpicAdventure/structure/methods"
 	"net/http"
 	"time"
 )

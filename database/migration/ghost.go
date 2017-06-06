@@ -3,8 +3,8 @@ package migration
 import (
 	"database/sql"
 	"errors"
-	"github.com/grumpyguvner/adventure-blog/filenames"
-	"github.com/grumpyguvner/adventure-blog/helpers"
+	"github.com/grumpyguvner/goEpicAdventure/filenames"
+	"github.com/grumpyguvner/goEpicAdventure/helpers"
 	"log"
 	"os"
 	"path/filepath"

@@ -2,8 +2,8 @@ package plugins
 
 import (
 	"errors"
-	"github.com/grumpyguvner/adventure-blog/filenames"
-	"github.com/grumpyguvner/adventure-blog/structure"
+	"github.com/grumpyguvner/goEpicAdventure/filenames"
+	"github.com/grumpyguvner/goEpicAdventure/structure"
 	"github.com/yuin/gopher-lua"
 	"log"
 	"os"

@@ -3,7 +3,7 @@ package database
 import (
 	"database/sql"
 	"encoding/json"
-	"github.com/grumpyguvner/adventure-blog/structure"
+	"github.com/grumpyguvner/goEpicAdventure/structure"
 	"time"
 )
 

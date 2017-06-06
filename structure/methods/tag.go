@@ -1,8 +1,8 @@
 package methods
 
 import (
-	"github.com/grumpyguvner/adventure-blog/slug"
-	"github.com/grumpyguvner/adventure-blog/structure"
+	"github.com/grumpyguvner/goEpicAdventure/slug"
+	"github.com/grumpyguvner/goEpicAdventure/structure"
 	"strings"
 )
 

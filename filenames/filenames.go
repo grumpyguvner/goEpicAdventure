@@ -1,7 +1,7 @@
 package filenames
 
 import (
-	"github.com/grumpyguvner/adventure-blog/flags"
+	"github.com/grumpyguvner/goEpicAdventure/flags"
 	"github.com/kardianos/osext"
 	"log"
 	"os"
