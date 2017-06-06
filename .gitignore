@@ -2,7 +2,7 @@
 TODO.txt
 
 # Built binary
-journey
+goEpicAdventure
 
 # Log file
 log.txt
@@ -86,3 +86,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Atom Files
+.idea
+
